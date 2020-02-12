@@ -1,4 +1,4 @@
-# CSCI-212
+# CSCI 212 - Object-Oriented Programming in Java
 
 All 14 projects required for completion of course.
 
