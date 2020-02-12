@@ -1,6 +1,6 @@
 # CSCI-212
 
-Projects required for completion of course.
+All 14 projects required for completion of course.
 
 Instructor: Krishna Mahavadi
 
