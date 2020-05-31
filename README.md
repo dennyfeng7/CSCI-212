@@ -1,7 +1,4 @@
 # CSCI 212 - Object-Oriented Programming in Java
-
-All 14 projects required for completion of course.
-
 Instructor: Krishna Mahavadi
 
 Semester: Summer 2019 Session 2
